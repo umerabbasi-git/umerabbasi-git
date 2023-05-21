@@ -7,7 +7,7 @@
 - ⚡ I'm an avid learner
 - 💡 I'm familiar with using R, Python, Stata, and Excel to analyze data
 - 📫 Feel free to connect with me through [email](mailto:umerabbasi@outlook.com) or [linkedin](https://www.linkedin.com/in/abbasiumer/)
-- 📂 Check out Project Portfolio here - [Portfolio](https://umerabbasi.carrd.co/#projects)
+- 📂 Check out my Project Portfolio here - [Portfolio](https://umerabbasi.carrd.co/#projects)
 - 🌐 My personal website can be found here - [Personal Website](https://umerabbasi.carrd.co/)
 
 ### Languages & Tools
