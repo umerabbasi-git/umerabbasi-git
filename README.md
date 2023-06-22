@@ -3,7 +3,7 @@
 
 - 🎓 I'm an Honours Bachelor of Science (HBSc) graduate from University of Toronto with a dual major in Applied Statistics and Economics and a minor in Computer Science 
 - 👀 I'm interested in Data Analysis and Econometrics
-- 🌱 I'm currently learning python and R libraries that could make analyzing and visualizing data faster
+- 🌱 I'm currently learning visualization tools (Tableau and Power BI)
 - ⚡ I'm an avid learner
 - 💡 I'm familiar with using R, Python, Stata, and Excel to analyze data
 - 📫 Feel free to connect with me through [email](mailto:umerabbasi@outlook.com) or [linkedin](https://www.linkedin.com/in/abbasiumer/)
